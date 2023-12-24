@@ -1,14 +1,15 @@
 info = {
-   "Pronoun": "her", 
-   "Name": "Vicky",
-   "Full_Name": "Vicky Kuo",
-   "Intro": "A Tech Educator and AI Enthusiast at cognitiveclass.ai",
-   "About":"Hey there, I'm Vicky! I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business. Check out my free courses and projects on cognitiveclass.ai: https://cognitiveclass.ai/",
-   "Tableau":"https://public.tableau.com/app/profile/vickytc/viz/SunnybrookTeam/Overview",
+   "Pronoun": "he", 
+   "Name": "Martas",
+   "Full_Name": "Martas the Atom Gautam",
+   "Nick_Name": "Atom",
+   "Intro": "An AI student at HKBU and an AI enthusiast at कृत्रिम बौद्धिकता। Kribaat",
+   "About":"Hey there, I'm Martas! I'm passionate about leveraging AI & ML to drive R&D while generating meaningful insights and solutions in business. Check out my AI R&D startup at kribaat.com",
+   "LinkedIn":"www.linkedin.com/in/martas-the-atom-gautam-a7a714188",
    "Medium":"https://medium.com/@vicky-note/about",
-   "City":"Toronto, Canada",
-   "Photo":"""<a href=\"https://www.linkedin.com/in/vicky-tck/\"><img src=\"https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/profile.png" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
-   "Email": "vicky.kuo.contact@gmail.com"
+   "City":"Kowloon, Hong Kong",
+   "Photo":"""<a href=\"https://www.linkedin.com/in/martas-the-atom-gautam-a7a714188/"><img src=\"https://media.licdn.com/dms/image/D5603AQEA1wx0xzTi8A/profile-displayphoto-shrink_400_400/0/1673881666381?e=1709164800&v=beta&t=SOa79yHX7I0fsoo_WyZRDfbe1n1sdR8Ayx015GAX548" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
+   "Email": "martastheatomgautam@gmail.com"
 }
 
 embed_rss= {

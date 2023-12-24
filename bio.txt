@@ -1,41 +1,70 @@
-About Vicky:
-Vicky is a seasoned professional with expertise in AI, Data Science, Blockchain, and Cloud technologies. Holding an undergraduate degree in Computer Science from the University of Techville (2010), Vicky is committed to delivering innovative solutions and offers valuable resources at cognitiveclass.ai.
+About Martas:
+Martas is a confident and organized aspiring AI entrepreneur, driven by its potential to revolutionize sectors with the goal of enhancing the industrial, financial and agricultural sectors. He brings a strong work ethic, a thirst for learning and a unique perspective with the commitment to contributing positively to any team he joins. 
 
-Work Experience:
-Data Scientist at IBM (2015-2019); Software Developer at IBM (2010-2015)
+Internships and Experience:
+DAICS Specialist at IX Asia Indexes (now IX Capital International) 2023/04-Present 
+    Researched and analysed the Digital Assets (Cryptocurrencies and Asset-Backed Tokens), understanding their nature and underlying protocol to classify them based on the Digital Asset Industry Classification System® (DAICS®) Methodology. 
+    Panel Speaker at TechSauce Global Summit 2023 Bangkok on "Web 3 & Crypto Adoption and Regulation".
+    Best Presenter at HK Fintech Impetus Award 2023 by KPMG/Metro Radio.
+    Presented and won the award for ‘Metaverse, NFT, And DeFi’ Category in IFTA Fintech and Innovation Awards 2022/23 for DAEM Technology   Limited (a spinoff affiliate of IX Asia Indexes) 
+    Acted as a bridge between developer and iAM Smart ITE Support to integrate iAM Smart into the company's mobile application.
+Software Quality Assurance Engineer (Intern) at IX Fintech Limited 2021/06-2021/08 
+    Identified and documented issues and defects in the company’s mobile application and suggested new features.
+AI Engineer (Intern) at MoveIt MoveIt 2022/12-2023/01 
+Cleaning and pre-processing of thousands of data for furniture detection algorithm that used yoloV5.
+
 
 Career Goal:
-Vicky's career goal is to leverage their expertise in AI and emerging technologies to drive meaningful innovation and create solutions that positively impact businesses and society.
+Martas's career goal is to leverage their expertise in AI and emerging technologies to drive meaningful innovation and create solutions that positively impact businesses and society especially in Nepal.
 
-Skills: 
-AI, Data Science, Blockchain, Cloud, Python
+Technical Skills: 
+Pytorch & Tensorflow2 Keras 
+ReactJS 
+Microsoft Azure Fundamentals 
+OpenCV4 
+BERT & Hugging Face Transformers 
+R Programming 
+Pandas, Numpy & Matplotlib 
 
-Certification:
-IBM Applied AI Professional Certificate (2023)
+Soft Skills:
+Good Communication, Critical Thinking, Leadership, Resourcefulness, 
+Teamwork, Openness to Criticism, 
+
+Certifications:
+The Complete Machine Learning and Data Science Bootcamp 2023, Udemy, November 2022 – Present 
+Modern Computer Vision Pytorch, Tensorflow2 Keras & OpenCV4, Udemy, February 2023 – Present 
+Advance Your Skills in Natural Language Processing learning path, LinkedIn Learning, September 2023 – Present 
+R for Data Science, LinkedIn Learning, October 2023 – Present
+Azure Fundamentals (AZ-900), LinkedIn Learning, October 2023 – Present
+Mental Health First Aid Captain, MHFA HK, September 2023 – October 2023
 
 Achievements:
 Spearheaded AI projects at IBM, resulting in a 30% increase in user engagement.
 Utilized IBM's watsonx service to help over 1000 companies from various domains automate their HR processes, from hiring to onboarding, contributing to a 100% positive feedback rate from companies.
 
 Contact:
-LinkedIn: https://www.linkedin.com/in/vicky-tck
+LinkedIn: https://www.linkedin.com/in/martas-the-atom-gautam-a7a714188/
 Phone: 123-456-789
 Location: Toronto, Ontario
 
 Strengths and Advantages:
-Vicky's strengths lie in a profound passion for technology, innovative problem-solving, and client-centric solutions.
+Martas's strengths lie in a profound passion for technology, innovative problem-solving, and client-centric solutions.
 
 Weaknesses and Disadvantages:
-Vicky's unwavering pursuit of excellence may occasionally lead to in-depth analysis, but it ensures the delivery of high-quality services.
+Martas's unwavering pursuit of excellence may occasionally lead to in-depth analysis, more than necessary, but it ensures the delivery of high-quality services.
 
-Interests and Hobbies:
-Vicky's passion for technology extends into leisure hours, where they delve into the cutting-edge realm of GenAI, continuously pushing the boundaries of what can be achieved in various projects. In addition, Vicky finds joy in the simple pleasures of life, such as walking their dogs, swimming, and sharing coffee moments with friends and family.
+HOBBIES & LIKES 
+Hiking, Numismatics, Street Food,  
+Swimming (even though he doesn’t know 
+how to swim, he just loves going into 
+water), Anime, Tea tasting, Football, 
+Cricket 
 
 Portfolio:
-Explore Vicky's portfolio of innovative projects at cognitiveclass.ai, showcasing expertise and tailored solutions. This website also serves as a showcase for some of Vicky's remarkable projects. Constructed using generative AI and Python, the website aims to inspire visitors with innovative ideas on seamlessly integrating generative AI into their own portfolio websites. Feel free to explore and ignite your creativity!
+Explore Martas's portfolio of innovative projects at cognitiveclass.ai, showcasing expertise and tailored solutions. This website also serves as a showcase for some of Martas's remarkable projects. Constructed using generative AI and Python, the website aims to inspire visitors with innovative ideas on seamlessly integrating generative AI into their own portfolio websites. Feel free to explore and ignite your creativity!
 
 Availability:
-Vicky is actively seeking new opportunities and is ready to start immediately.
+Martas is actively seeking new opportunities and is ready to start from June 2024.
 
 References:
 References are available upon request.
